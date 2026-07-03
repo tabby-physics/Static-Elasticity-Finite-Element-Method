@@ -45,6 +45,17 @@ This project includes:
 - Jupyter Notebook
 
 ---
+## Simulation
+
+### Finite Element Solution
+
+![FEM](images/fem_result.png)
+
+---
+
+### Relaxation Method
+
+![Relaxation](images/relaxation_method.png)
 
 ## Repository Contents
 
