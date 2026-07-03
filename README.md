@@ -49,12 +49,11 @@ This project includes:
 
 ## Finite Element Solution
 
-![Finite Element Solution](fem_result.png.jpeg)
+![Finite Element Solution](fem_result.png)
 
 ## Relaxation Method
 
-![Relaxation Method](relaxation_method.png.jpeg)
-
+![Relaxation Method](relaxation_method.png)
 ## Repository Contents
 
 - Static_Elasticity_FEM.ipynb
