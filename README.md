@@ -47,15 +47,13 @@ This project includes:
 ---
 ## Simulation
 
-### Finite Element Solution
+## Finite Element Solution
 
-![FEM](images/fem_result.png)
+![Finite Element Solution](fem_result.png.jpeg)
 
----
+## Relaxation Method
 
-### Relaxation Method
-
-![Relaxation](images/relaxation_method.png)
+![Relaxation Method](relaxation_method.png.jpeg)
 
 ## Repository Contents
 
